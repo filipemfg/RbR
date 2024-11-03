@@ -1,3 +1,7 @@
-Regression by Re-ranking.
+# Regression by Re-ranking
 
-In progress.
+A framework for regression tasks based on re-ranking.
+
+This repository will contain code, examples, and documentation for using the Regression by Re-ranking (RbR) framework.
+
+**Code will be available soon.**
